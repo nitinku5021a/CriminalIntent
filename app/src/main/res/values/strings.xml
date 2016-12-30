@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="editTexthint">Enter the Title of the Crime</string>
+    <string name="DetailText">Details</string>
+    <string name="TitleText">Title</string>
+    <string name="CheckBoxText">Solved?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_crime_pager">CrimePagerActivity</string>
+
+</resources>
